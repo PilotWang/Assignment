@@ -68,7 +68,7 @@ Year: 2014
 Title: Coco
 Genre: Animation
 Director Name: Lee Unkrich
-Director: Adrian Molina
+Director Name: Adrian Molina
 Studio: Pixar Animation Studios
 Year: 2017
 
@@ -89,3 +89,4 @@ Genre: Comedy
 Director Name: Martin Scorsese
 Studio: Paramount Pictures
 Year: 2013
+
